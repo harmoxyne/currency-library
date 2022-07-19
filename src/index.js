@@ -1,6 +1,6 @@
-const currencyData = require('./currencies.json');
-const numericCodesMapping = require('./numericCodesMapping.json');
-const symbolMapping = require('./symbolMapping.json');
+const currencyData = require('../lib/currencies.json');
+const numericCodesMapping = require('../lib/numericCodesMapping.json');
+const symbolMapping = require('../lib/symbolMapping.json');
 
 exports.getAll = () => Object.values(currencyData);
 exports.getByIsoCode = (isoCode) => currencyData[isoCode] || undefined;

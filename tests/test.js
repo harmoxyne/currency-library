@@ -1,4 +1,4 @@
-const currencyLibrary = require('./index');
+const currencyLibrary = require('../src/index');
 
 describe('getByIsoCode()', () => {
   it('should return correct currency', () => {
