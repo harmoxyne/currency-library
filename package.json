@@ -1,0 +1,32 @@
+{
+  "name": "currency-library",
+  "version": "1.0.0",
+  "description": "Easily get data about different currencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harmoxyne/currency-library.git"
+  },
+  "keywords": [
+    "currency",
+    "currencies",
+    "code",
+    "codes",
+    "lookup",
+    "iso4217",
+    "iso",
+    "4217"
+  ],
+  "author": "harmoxyne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harmoxyne/currency-library/issues"
+  },
+  "homepage": "https://github.com/harmoxyne/currency-library#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
