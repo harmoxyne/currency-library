@@ -4,10 +4,19 @@
 ![coverage](https://img.shields.io/codecov/c/github/harmoxyne/currency-library)
 ![version](https://img.shields.io/npm/v/currency-library)
 ![license](https://img.shields.io/github/license/harmoxyne/currency-library)
+![size](https://img.shields.io/bundlephobia/minzip/currency-library)
 
 Easily get data about different currencies in Javascript
 
 # Usage
+
+[getAll](#getall)
+
+[getByIsoCode](#getbyisocode)
+
+[getByNumericCode](#getbynumericcode)
+
+[getBySymbol](#getbysymbol)
 
 ## getAll
 
