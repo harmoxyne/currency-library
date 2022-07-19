@@ -1,6 +1,6 @@
 # currency-library
 
-![build](https://img.shields.io/github/workflow/status/harmoxyne/currency-library/ci)
+![build](https://img.shields.io/github/workflow/status/harmoxyne/currency-library/main)
 ![coverage](https://img.shields.io/codecov/c/github/harmoxyne/currency-library)
 ![version](https://img.shields.io/npm/v/currency-library)
 ![license](https://img.shields.io/github/license/harmoxyne/currency-library)
